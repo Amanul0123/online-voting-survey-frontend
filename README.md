@@ -22,11 +22,11 @@ A user-friendly voting survey application built with React.js and Vite. It allow
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MdMohsinHaider/Voting-Survey-React-Frontend.git
+   git clone https://github.com/Amanul0123/online-voting-survey-frontend
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Voting-Survey-React-Frontend
+   cd online-voting-survey-frontend
    ```
 3. Install dependencies:
    ```sh
@@ -85,5 +85,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 Developed by **Md Mohsin Haider**
-- **GitHub**: [MdMohsinHaider](https://github.com/MdMohsinHaider)
+- **GitHub**: [Amanul0123](https://github.com/Amanul0123)
 
